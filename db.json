@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "messId": "M101",
+      "name": "John Doe",
+      "phoneNumber": "9876543210"
+    }
+  ],
+  "meals": [],
+  "expenses": []
+}
